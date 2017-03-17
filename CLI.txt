@@ -1,0 +1,18 @@
+***** <B> Command Line Interface </B> ******
+
+Basic commands:
+
+Navigate the directories:                       cd ___dir/folder_Name
+
+Make new folder:                                mkdir Folder_Name
+
+Delete a folder (only empty folders):           rmdir Folder_Name
+
+Create new file:                                touch File_Name.extension
+
+Delete files:                                   rm File_Name1.extension  File_Name2.extension  File_Name2.extension
+
+Details with parameters:                        man + command_name
+
+
+

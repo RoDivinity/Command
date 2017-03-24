@@ -2,7 +2,7 @@
 
 Basic commands:
 
-Navigate the directories:                       cd ___dir/folder_Name
+Navigate the directories:                       cd  ___dir/folder_Name
 
 Make new folder:                                mkdir Folder_Name
 
@@ -14,5 +14,7 @@ Delete files:                                   rm File_Name1.extension  File_Na
 
 Details with parameters:                        man + command_name
 
+Move a folder/file                              mv  ___dir/Src_Folder   ____dir/Destination
 
+Create new shortcut/chains of cmd:              alias shortcut='command1;command2;...'    *Note no space between shortcut=expression
 

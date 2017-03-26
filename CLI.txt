@@ -18,3 +18,8 @@ Move a folder/file                              mv  ___dir/Src_Folder   ____dir/
 
 Create new shortcut/chains of cmd:              alias shortcut='command1;command2;...'    *Note no space between shortcut=expression
 
+List files and folder in directory:             ls [some simple argument: -l details listed -s short]
+
+More advance:
+
+Change file permission                          chmod [permission numbers: using 0,1,2,4 in 3 places] Explained in details

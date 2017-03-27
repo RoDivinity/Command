@@ -1,0 +1,15 @@
+****** Interesting built-in text editor ******
+* To say the truth I don't know why it's powerful. But the majority says so then let's explore
+
+
+
+Vim has two mode: COMMAND and INSERT
+
+when entered INSERT mode, there will be --INSERT-- in bottom of the command line interface.
+to go back COMMAND mode, just hit ESCAPE!
+
+1. Navigate the text:
+          ^
+       <     >
+          v
+          
